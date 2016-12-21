@@ -54,15 +54,16 @@
                     </tr>
                         <?php foreach($incident as $key=>$value): ?>
                     <tr>
-                        <td><?php echo $value['id']; ?></td>
+                        <td><?php echo $value['idincident_report']; ?></td>
                 <td><?php echo $value['incident_name']; ?></td>
                 <td><?php echo $value['incident_details']; ?></td>
                         <td>
+
                                 <?php echo $this->Html->link('<i class="fa fa-pencil"></i>', 
-    array('controller' => 'person', 'action' => 'editclient', $value['id']), 
+    array('controller' => 'incident', 'action' => 'edit', $value['idincident_report']), 
     array('escape' => false)); ?> 
                                 <?php echo $this->Html->link('<i class="fa fa-fw fa-sticky-note-o"></i>', 
-    array('controller' => 'person', 'action' => 'viewclient', $value['id']), 
+    array('controller' => 'incident', 'action' => 'view', $value['idincident_report']), 
     array('escape' => false)); ?>
                         </td>
                     </tr>

@@ -17,7 +17,7 @@
                 <div class="box-body table-responsive no-padding">
                     <table class="table table-hover">
                           <tr>
-                <th scope="col"><?= $this->Paginator->sort('id') ?></th>
+                <th scope="col"><?= $this->Paginator->sort('idincident_report') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('incident_name') ?></th>
              
                 <th scope="col"><?= $this->Paginator->sort('incident_details') ?></th>
@@ -36,7 +36,7 @@
                   
 
                         <tr>
-                <td><?php echo $value['id']; ?></td>
+                <td><?php echo $value['idincident_report']; ?></td>
                 <td><?php echo $value['incident_name']; ?></td>
                 <td><?php echo $value['incident_details']; ?></td>
                 <td><?php echo $value['person_details_id']; ?></td>

@@ -47,7 +47,9 @@ class PersonController extends AppController
 
         $this->set('person', $person);
         $this->set('_serialize', ['person']);
-        $incident = $this->Person->Incident->find('all');
+       
+        $incident = $this->Person->Incident-> find('all', array('conditions' =>
+					array('person_details_id' => $id)));
         $this->set(compact('incident', $this->paginate($incident)));
     }
 

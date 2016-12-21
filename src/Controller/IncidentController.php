@@ -38,7 +38,11 @@ class IncidentController extends AppController
         ]);
 
         $this->set('incident', $incident);
+         
         $this->set('_serialize', ['incident']);
+         
+       
+       
         
     }
 

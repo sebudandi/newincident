@@ -10716,3 +10716,1986 @@ Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
 
 
 
+2016-12-21 18:16:15 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:16:16 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:16:16 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 80]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 80
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:31:36 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:31:36 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:31:36 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 74]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 74
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:33:09 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:33:09 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:33:11 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:33:11 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:34:57 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:34:57 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:00 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:00 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:04 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:04 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:08 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:35:08 Notice: Notice (8): Undefined variable: company_details in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:41 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:41 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:42 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:42 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:45 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:38:45 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:21 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:21 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:21 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 29]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 29
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:31 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:31 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:31 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 29]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 29
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:34 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:34 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:34 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 29]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 29
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:39 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:39 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:39:39 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 29]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 29
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:46:11 Notice: Notice (8): Object of class App\Model\Entity\Person could not be converted to int in [/var/www/html/IncidentManager/vendor/cakephp/cakephp/src/ORM/Association.php, line 690]
+Request URL: /IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\ORM\Association::find() - CORE/src/ORM/Association.php, line 690
+App\Controller\PersonController::view() - APP/Controller/PersonController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:46:12 Notice: Notice (8): Object of class App\Model\Entity\Person could not be converted to int in [/var/www/html/IncidentManager/vendor/cakephp/cakephp/src/ORM/Association.php, line 690]
+Request URL: /IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\ORM\Association::find() - CORE/src/ORM/Association.php, line 690
+App\Controller\PersonController::view() - APP/Controller/PersonController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:46:17 Notice: Notice (8): Object of class App\Model\Entity\Person could not be converted to int in [/var/www/html/IncidentManager/vendor/cakephp/cakephp/src/ORM/Association.php, line 690]
+Request URL: /IncidentManager/person/view/2
+Referer URL: http://localhost/IncidentManager/person
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\ORM\Association::find() - CORE/src/ORM/Association.php, line 690
+App\Controller\PersonController::view() - APP/Controller/PersonController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:46:18 Notice: Notice (8): Object of class App\Model\Entity\Person could not be converted to int in [/var/www/html/IncidentManager/vendor/cakephp/cakephp/src/ORM/Association.php, line 690]
+Request URL: /IncidentManager/person/view/2
+Referer URL: http://localhost/IncidentManager/person
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\ORM\Association::find() - CORE/src/ORM/Association.php, line 690
+App\Controller\PersonController::view() - APP/Controller/PersonController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:51:45 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:51:45 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:52:42 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:52:42 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:52:42 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 29]
+Request URL: /IncidentManager/incident/view/1
+Referer URL: http://localhost/IncidentManager/person/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 29
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:49 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:49 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:52 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:53:52 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:54:02 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:54:02 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/2
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:54:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:54:43 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:58:09 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:58:09 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 18:59:38 Notice: Notice (8): Undefined variable: incident in [/var/www/html/IncidentManager/src/Template/Person/view.ctp, line 55]
+Request URL: /IncidentManager/person/view/2
+Referer URL: http://localhost/IncidentManager/person
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Person/view.ctp, line 55
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:02:34 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:02:34 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:02:36 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:02:36 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:03:55 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:03:55 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:03:57 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:03:57 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:04:11 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:04:11 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:04:58 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:04:58 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:42:15 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/4
+Referer URL: http://localhost/IncidentManager/person/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:42:15 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/4
+Referer URL: http://localhost/IncidentManager/person/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:42:39 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 10]
+Request URL: /IncidentManager/incident/view/4
+Referer URL: http://localhost/IncidentManager/person/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-21 19:42:39 Notice: Notice (8): Undefined variable: person in [/var/www/html/IncidentManager/src/Template/Incident/view.ctp, line 11]
+Request URL: /IncidentManager/incident/view/4
+Referer URL: http://localhost/IncidentManager/person/view/3
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Incident/view.ctp, line 11
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1014
+Cake\View\View::_render() - CORE/src/View/View.php, line 973
+Cake\View\View::render() - CORE/src/View/View.php, line 597
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+

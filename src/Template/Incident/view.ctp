@@ -7,8 +7,8 @@
                 <div class="widget-user-image">
                     <img class="img-circle" src="../dist/img/user7-128x128.jpg" alt="User Avatar">
                 </div><!-- /.widget-user-image -->
-                <h3 class="widget-user-username"><?php echo $company_details['fname']; ?></h3>
-                <h5 class="widget-user-desc"><?php echo $company_details['id']; ?></h5>
+                <h3 class="widget-user-username"><?php echo $person['fname']; ?></h3>
+                <h5 class="widget-user-desc"><?php echo $person['id']; ?></h5>
             </div>
             <div class="box-footer no-padding">
                
@@ -51,7 +51,7 @@
     <div class="col-xs-12">
         <div class="box">
             <div class="box-header">
-                <h3 class="box-title">Company</h3>
+                <h3 class="box-title">Incident</h3>
                 <div class="box-tools">
                     <div class="input-group" style="width: 150px;">
                         <input type="text" name="table_search" class="form-control input-sm pull-right" placeholder="Search">
@@ -64,37 +64,24 @@
             <div class="box-body table-responsive no-padding">
                 <table class="table table-hover">
                     <tr>
-                        <th>ID</th>
-                        <th>First Name</th>
-                        <th>Second Name</th>
-                        <th>Other Names</th>
-                        <th>Date of birth</th>
-                        <th>Place of birth</th>
-                        <th>Photo</th>
-                        <th>Nationality</th>
-                        <th>Gender</th>
-                        <th>Passport Number</th>
+                         <th scope="col"><?= $this->Paginator->sort('incident_report') ?></th>
+                <th scope="col"><?= $this->Paginator->sort('incident_name') ?></th>
+             
+                <th scope="col"><?= $this->Paginator->sort('incident_details') ?></th>
                        
                         <th>Action</th>
                     </tr>
-                        <?php foreach($company_details as $key=>$value): ?>
+                        <?php foreach($incident as $key=>$value): ?>
                     <tr>
-                        <td><?php echo $value['id']; ?></td>
-                        <td><?php echo $value['fname']; ?></td>
-                        <td><?php echo $value['lname']; ?></td>
-                        <td><?php echo $value['mname']; ?></td>
-                        <td><?php echo $value['dob']; ?></td>
-                        <td><?php echo $value['pob']; ?></td>
-                        <td><?php echo $value['photo']; ?></td>
-                        <td><?php echo $value['nationality']; ?></td>
-                        <td><?php echo $value['maritialStatus']; ?></td>
-                        <td><?php echo $value['passportNo']; ?></td>
+                <td><?php echo $value['incident_report']; ?></td>
+                <td><?php echo $value['incident_name']; ?></td>
+                <td><?php echo $value['incident_details']; ?></td>
                         <td>
                                 <?php echo $this->Html->link('<i class="fa fa-pencil"></i>', 
-    array('controller' => 'person', 'action' => 'editclient', $value['id']), 
+    array('controller' => 'incident', 'action' => 'edit', $value['id']), 
     array('escape' => false)); ?> 
                                 <?php echo $this->Html->link('<i class="fa fa-fw fa-sticky-note-o"></i>', 
-    array('controller' => 'person', 'action' => 'viewclient', $value['id']), 
+    array('controller' => 'incident', 'action' => 'view', $value['id']), 
     array('escape' => false)); ?>
                         </td>
                     </tr>
