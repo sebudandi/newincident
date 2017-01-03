@@ -48,7 +48,7 @@
                         <th scope="col"><?= $this->Paginator->sort('id') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('incident_name') ?></th>
              
-                <th scope="col"><?= $this->Paginator->sort('incident_details') ?></th>
+                
                        
                         <th>Action</th>
                     </tr>
@@ -56,7 +56,7 @@
                     <tr>
                         <td><?php echo $value['idincident_report']; ?></td>
                 <td><?php echo $value['incident_name']; ?></td>
-                <td><?php echo $value['incident_details']; ?></td>
+                
                         <td>
 
                                 <?php echo $this->Html->link('<i class="fa fa-pencil"></i>', 
